@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T21:13:46.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="MKBRtHCbE8bRyYXSeT2b" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T21:23:37.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="sa7J1kVe5ZkSkvUxwZ6H" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,6 +63,10 @@
         <mxCell id="SXRWceZyZXSWCd43gUxl-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" target="SXRWceZyZXSWCd43gUxl-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="420" />
+              <mxPoint x="440" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Category" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;shape=mxgraph.flowchart.decision;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -172,8 +176,17 @@
         <mxCell id="XPrcIIM_zlbopIxsgHZ1-0" value="IP&amp;amp; Domains " style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="-210" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XPrcIIM_zlbopIxsgHZ1-14" value="Cisco" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="-210" width="100" height="60" as="geometry" />
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-14" value="Cisco" style="shape=manualInput;html=1;strokeWidth=2;whiteSpace=wrap;rounded=1;arcSize=11;size=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="-190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="26" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-18" value="Host " style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-24" value="Network" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="110" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
