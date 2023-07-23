@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-23T21:23:37.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="sa7J1kVe5ZkSkvUxwZ6H" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-23T21:27:02.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="6X7ivHl6hQmiYys5VW9L" version="21.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="1943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,8 +84,14 @@
         <mxCell id="SXRWceZyZXSWCd43gUxl-13" value="Amber " style="whiteSpace=wrap;html=1;verticalAlign=top;strokeWidth=2;labelBackgroundColor=default;spacingTop=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="56" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SXRWceZyZXSWCd43gUxl-16" target="XPrcIIM_zlbopIxsgHZ1-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SXRWceZyZXSWCd43gUxl-16" value="Account Compromise " style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="430" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SXRWceZyZXSWCd43gUxl-18" target="XPrcIIM_zlbopIxsgHZ1-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SXRWceZyZXSWCd43gUxl-18" value="Vulnerability exploit " style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=2;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="550" width="120" height="60" as="geometry" />
@@ -182,11 +188,29 @@
         <mxCell id="XPrcIIM_zlbopIxsgHZ1-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="26" width="20" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XPrcIIM_zlbopIxsgHZ1-18" target="XPrcIIM_zlbopIxsgHZ1-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XPrcIIM_zlbopIxsgHZ1-18" value="Host " style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="XPrcIIM_zlbopIxsgHZ1-24" target="XPrcIIM_zlbopIxsgHZ1-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XPrcIIM_zlbopIxsgHZ1-24" value="Network" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-25" value="contact users" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-27" value="contact vuln" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=process;whiteSpace=wrap;rounded=1;size=0.14;arcSize=6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-29" value="CS Log analysis " style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="-10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XPrcIIM_zlbopIxsgHZ1-31" value="ELK Log analysis" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
