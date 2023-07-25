@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T16:17:21.050Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="VJgHkX8AunokWLYMDoai" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T16:25:20.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0" etag="1aOPDOu0Vxzfq2Fg4pnf" version="21.6.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1195" dy="-175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -292,8 +292,14 @@
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-344" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Check Triggering Indicator&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=none;rounded=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="140">
           <mxGeometry x="253.00455782312926" y="459" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Bg-LwxP5u8JBHM3GzIbE-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=3;" edge="1" parent="140" source="Bg-LwxP5u8JBHM3GzIbE-345" target="Bg-LwxP5u8JBHM3GzIbE-399">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-345" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Check Archer Auth &lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=none;rounded=1;strokeWidth=2;gradientColor=none;shape=trapezoid;perimeter=trapezoidPerimeter;fixedSize=1;" vertex="1" parent="140">
           <mxGeometry x="465.66455782312926" y="459" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg-LwxP5u8JBHM3GzIbE-399" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Contain&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=none;rounded=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="140">
+          <mxGeometry x="792.6645578231293" y="459" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-145" value="Medium" style="strokeColor=#BAC8D3;fillColor=#5d7f99;fontSize=19;strokeWidth=2;horizontal=0;fontFamily=Helvetica;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="204" y="1630.5" width="40" height="100" as="geometry" />
@@ -322,6 +328,9 @@
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-348" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0C343D;strokeWidth=3;rounded=1;" edge="1" parent="1" source="Bg-LwxP5u8JBHM3GzIbE-305" target="Bg-LwxP5u8JBHM3GzIbE-347">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Bg-LwxP5u8JBHM3GzIbE-400" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0C343D;strokeWidth=3;" edge="1" parent="1" source="Bg-LwxP5u8JBHM3GzIbE-305" target="Bg-LwxP5u8JBHM3GzIbE-398">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-305" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Check Archer auth&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=none;rounded=1;strokeWidth=2;gradientColor=none;shape=trapezoid;perimeter=trapezoidPerimeter;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="710.0045578231293" y="1250.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -331,6 +340,12 @@
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-343" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Check Host &lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=none;rounded=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="277.3945578231293" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Bg-LwxP5u8JBHM3GzIbE-404" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0C343D;strokeWidth=3;" edge="1" parent="1" source="Bg-LwxP5u8JBHM3GzIbE-347" target="Bg-LwxP5u8JBHM3GzIbE-398">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg-LwxP5u8JBHM3GzIbE-405" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0C343D;strokeWidth=3;" edge="1" parent="1" source="Bg-LwxP5u8JBHM3GzIbE-347" target="Bg-LwxP5u8JBHM3GzIbE-403">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-347" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Quarantined&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#23445D;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="930" y="1300" width="88" height="60" as="geometry" />
         </mxCell>
@@ -339,6 +354,12 @@
         </mxCell>
         <mxCell id="Bg-LwxP5u8JBHM3GzIbE-353" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0C343D;strokeWidth=3;" edge="1" parent="1" source="Bg-LwxP5u8JBHM3GzIbE-304" target="Bg-LwxP5u8JBHM3GzIbE-303">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg-LwxP5u8JBHM3GzIbE-398" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Contain&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#23445D;strokeColor=none;rounded=1;strokeWidth=2;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1037.0045578231293" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Bg-LwxP5u8JBHM3GzIbE-403" value="&lt;font color=&quot;#FFFFFF&quot;&gt;Delete QT&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#23445D;strokeColor=#23445D;" vertex="1" parent="1">
+          <mxGeometry x="1169" y="1300" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
