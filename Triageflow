@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T13:33:18.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="2a170fgIqUW6tvZBJDqJ" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T13:34:34.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="aqt-z8CdPdQEBv9KaKIp" version="21.6.5" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2260" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -305,20 +305,20 @@
         <mxCell id="xWHVujqNwsWfhZJG-2Gd-98" value="Credential Access " style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;glass=1;" vertex="1" parent="1">
           <mxGeometry y="350" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xWHVujqNwsWfhZJG-2Gd-104" value="High " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="730" width="50" height="30" as="geometry" />
+        <mxCell id="xWHVujqNwsWfhZJG-2Gd-104" value="&lt;h1&gt;High &lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="690" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xWHVujqNwsWfhZJG-2Gd-105" value="DDOS" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC;glass=1;" vertex="1" parent="1">
           <mxGeometry x="9.999999999999972" y="589.9999999999999" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xWHVujqNwsWfhZJG-2Gd-107" value="Low Sev" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-120" width="70" height="30" as="geometry" />
+        <mxCell id="xWHVujqNwsWfhZJG-2Gd-107" value="&lt;h1&gt;Low&lt;br&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xWHVujqNwsWfhZJG-2Gd-108" value="Medium " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="900" width="70" height="30" as="geometry" />
+        <mxCell id="xWHVujqNwsWfhZJG-2Gd-108" value="&lt;h1&gt;Medium &lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xWHVujqNwsWfhZJG-2Gd-114" value="Critical" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="910" y="730" width="60" height="30" as="geometry" />
+        <mxCell id="xWHVujqNwsWfhZJG-2Gd-114" value="&lt;h1&gt;Critical&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="870" y="690" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xWHVujqNwsWfhZJG-2Gd-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#990000;strokeWidth=2;entryX=0.793;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xWHVujqNwsWfhZJG-2Gd-116" target="5">
           <mxGeometry relative="1" as="geometry">
