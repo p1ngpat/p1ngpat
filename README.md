@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a Computer Scientist in Training
+# 👋 Hi there! I'm Patrick!
 
 Welcome to my GitHub profile!
 
