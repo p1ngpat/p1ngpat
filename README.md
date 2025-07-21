@@ -12,11 +12,10 @@ I'm currently on a journey to become a computer scientist, actively learning and
 ## 📚 Technologies I'm Learning
 - Java
 - C++
-- Git and GitHub
-- Markdown
+- Python
 
 ## 🧠 Goals
-- Build a strong foundation in computer science theory
+- Build a strong foundation in computer science
 - Contribute to open source projects
 - Develop real-world applications
 
