@@ -13,6 +13,7 @@ I'm currently on a journey to become a computer scientist, actively learning and
 - Java
 - C++
 - Python
+- Ruby
 
 ## 🧠 Goals
 - Build a strong foundation in computer science
@@ -20,3 +21,4 @@ I'm currently on a journey to become a computer scientist, actively learning and
 - Develop real-world applications
 
 Thanks for stopping by! Feel free to check out my projects and follow my learning journey. 🚀
+
